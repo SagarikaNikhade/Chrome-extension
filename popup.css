@@ -1,0 +1,27 @@
+body{
+    min-width:300px;
+}
+
+.center{
+   text-align: center;
+}
+
+#InputId{
+    width:180px;
+    height:20px 
+}
+
+#Button{
+    margin-top:5px;
+    border: none;
+    background-color: blue;
+    border-radius: 10%;
+    color: white;
+    width:80px;
+    height:30px
+}
+
+#urlResult{
+    margin-top:10px;
+    border: 1px solid black;
+}
